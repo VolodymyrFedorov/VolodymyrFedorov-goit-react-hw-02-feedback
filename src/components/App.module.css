@@ -1,0 +1,25 @@
+.wrapper {
+  background-color: rgba(26, 80, 16, 0.247);
+  text-align: center;
+  width: 500px;
+  height: 300px;
+  border: 2px solid black;
+  margin: 150px auto 0 auto;
+  padding: 30px;
+  border-radius: 15px;
+}
+
+.icon_good {
+  padding-bottom: 5px;
+  fill: green;
+}
+
+.icon_bad {
+  padding-bottom: 5px;
+  fill: red;
+}
+
+.icon_neutral {
+  padding-bottom: 5px;
+  fill: blue;
+}
